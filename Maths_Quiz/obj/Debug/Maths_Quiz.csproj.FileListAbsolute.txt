@@ -1,0 +1,11 @@
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\bin\Debug\Maths_Quiz.exe.config
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\bin\Debug\Maths_Quiz.exe
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\bin\Debug\Maths_Quiz.pdb
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.csproj.AssemblyReference.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.Form1.resources
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.Properties.Resources.resources
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.csproj.GenerateResource.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.exe
+C:\Users\prgumede1\Desktop\SELENUIM\Maths_Quiz\Maths_Quiz\obj\Debug\Maths_Quiz.pdb
